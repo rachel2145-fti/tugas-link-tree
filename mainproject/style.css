@@ -89,16 +89,16 @@ body {
   .paragraf {
   width: 110%;
   justify-content: center;
-  padding-right: 110px;
-  padding-left: 110px;
+  padding-right: 50px;
+  padding-left: 50px;
   text-align: center;
   }
 
   .imgkontener {
   width: 110%;
   justify-content: center;
-  padding-right: 110px;
-  padding-left: 110px;
+  padding-right: 50px;
+  padding-left: 50px;
   text-align: center;
   }
 }
