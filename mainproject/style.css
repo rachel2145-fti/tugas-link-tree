@@ -92,7 +92,8 @@ body {
     padding-right: 50px;
     padding-left: 50px;
     text-align: center;
-    left: 10px;
+    position: relative;
+    left: 30px;
   }
 
   .imgkontener {
