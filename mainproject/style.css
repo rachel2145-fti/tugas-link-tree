@@ -85,25 +85,4 @@ body {
     text-align: center;
     -webkit-tap-highlight-color: transparent;
   }
-
-  .container {
-    width: 110%;
-    align-items: center;
-    padding: 100px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-
-  .imgkontener {
-    justify-content: center;
-    align-items: center;
-    display: flex;
-  }
-
-  .paragraf {
-    justify-content: center;
-    text-align: center;
-    display: flex;
-  }
 }
