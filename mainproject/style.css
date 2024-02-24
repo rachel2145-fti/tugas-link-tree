@@ -83,6 +83,7 @@ body {
     padding-right: 110px;
     padding-left: 110px;
     text-align: center;
+    -webkit-tap-highlight-color: transparent;
   }
 
   .container {
