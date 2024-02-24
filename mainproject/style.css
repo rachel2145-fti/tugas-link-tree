@@ -74,12 +74,8 @@ body {
 
 @media screen and (max-width: 600px) {
   .tile {
-    justify-content: center;
     width: 100%;
-    padding-right: 200px;
+    padding: 0;
     max-width: 600px;
-    position: relative;
-    text-align: center;
-    align-items: center;
   }
 }
