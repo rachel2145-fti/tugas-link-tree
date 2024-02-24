@@ -22,3 +22,7 @@ body {
   height: 25vh;
   width: 60vh;
 }
+
+.tile {
+  border: 1px solid #FFFFFF;
+}
