@@ -86,9 +86,4 @@ body {
     width: 100%;
     max-width: none;
   }
-
-  .imgkontener {
-    justify-content: center;
-    max-width: 100%;
-  }
 }
