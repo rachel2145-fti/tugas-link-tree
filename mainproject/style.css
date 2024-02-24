@@ -71,3 +71,9 @@ body {
 .paragraf {
   color: rgb(212,255,244);
 }
+
+@media screen and (max-width: 600px) {
+  .tile, .copybutton {
+    width: 100%;
+  }
+}
