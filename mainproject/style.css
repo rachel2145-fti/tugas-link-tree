@@ -102,7 +102,7 @@ body {
     text-align: center;
   }
 
-  .container, h1 {
+  .container, .ini {
     width: 110%;
     justify-content: center;
     padding-right: 50px;
