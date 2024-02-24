@@ -33,4 +33,6 @@ body {
   width: 500px;
   margin-bottom: 25px;
   position: relative;
+  text-align: center;
+  align-items: center;
 }
