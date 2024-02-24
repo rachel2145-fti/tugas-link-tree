@@ -5,6 +5,8 @@
 body {
   font-family: "Abel";
   background-color: rgb(53,66,76);
+  justify-content: center;
+  align-items: center;
 }
 
 .container {
