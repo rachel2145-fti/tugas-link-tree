@@ -77,7 +77,7 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-  .tile {
+  .tile, .paragraf {
     width: 110%;
     justify-content: center;
     padding-right: 110px;
