@@ -85,4 +85,20 @@ body {
     text-align: center;
     -webkit-tap-highlight-color: transparent;
   }
+
+  .paragraf {
+  width: 110%;
+  justify-content: center;
+  padding-right: 110px;
+  padding-left: 110px;
+  text-align: center;
+  }
+
+  .imgkontener {
+  width: 110%;
+  justify-content: center;
+  padding-right: 110px;
+  padding-left: 110px;
+  text-align: center;
+  }
 }
