@@ -17,3 +17,7 @@ body {
   flex-direction: column;
   justify-content: center;
 }
+
+.imgkontener {
+  height: 500px;
+}
