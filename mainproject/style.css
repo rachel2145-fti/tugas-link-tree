@@ -98,10 +98,12 @@ body {
   .imgkontener {
     justify-content: center;
     align-items: center;
+    display: flex;
   }
 
   .paragraf {
     justify-content: center;
     text-align: center;
+    display: flex;
   }
 }
