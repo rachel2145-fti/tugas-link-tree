@@ -87,18 +87,17 @@ body {
   }
 
   .paragraf {
-  width: 110%;
-  justify-content: center;
-  padding-right: 50px;
-  padding-left: 50px;
-  text-align: center;
+    width: 110%;
+    justify-content: center;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: center;
+    left: 10px;
   }
 
   .imgkontener {
-  width: 110%;
-  justify-content: center;
-  padding-right: 50px;
-  padding-left: 50px;
-  text-align: center;
+    width: 110%;
+    justify-content: center;
+    text-align: center;
   }
 }
