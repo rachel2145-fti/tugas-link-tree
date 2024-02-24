@@ -74,7 +74,7 @@ body {
   color: rgb(212,255,244);
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 600px) {
   .tile {
     width: 110%;
     justify-content: center;
