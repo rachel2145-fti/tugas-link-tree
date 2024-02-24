@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: "Abel";
   background-color: rgb(53,66,76);
@@ -12,6 +16,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin: 0 auto;
 }
 
 .imgkontener, img {
