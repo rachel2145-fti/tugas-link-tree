@@ -35,7 +35,13 @@
         </a>
         <script>
             function copyLink() {
-                
+                var buatcopy = document.querySelector('.tile');
+                var klik = document.createElement('input');
+                klik.setAttribute('value', buatcopy.getAttribute('href'));
+                document.body.appendChild(klik);
+                klik.select();
+                document.execCommand('copy');
+                document.body.removeChild(klik);
             }
         </script>
     </section>
