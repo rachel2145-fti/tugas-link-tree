@@ -72,6 +72,8 @@ body {
 
 .paragraf {
   color: rgb(212,255,244);
+  justify-content: center;
+  text-align: center;
 }
 
 @media screen and (max-width: 600px) {
