@@ -19,5 +19,6 @@ body {
 }
 
 .imgkontener, img {
-  height: 500px;
+  height: 500vh;
+  width: 100vh;
 }
