@@ -35,4 +35,9 @@ body {
   position: relative;
   text-align: center;
   align-items: center;
+  transition: transform .5s;
+}
+
+.tile:hover {
+  transform: scale(1.1);
 }
