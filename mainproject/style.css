@@ -76,8 +76,10 @@ body {
 @media screen and (max-width: 420px) {
   .tile {
     width: 100%;
+    justify-content: center;
     padding-right: 110px;
     padding-left: 110px;
+    text-align: center;
   }
 
   .container {
