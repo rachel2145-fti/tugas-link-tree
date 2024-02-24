@@ -85,4 +85,8 @@ body {
   .container {
     width: 100%;
   }
+
+  .imgkontener {
+    justify-content: center;
+  }
 }
