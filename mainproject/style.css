@@ -11,4 +11,9 @@ body {
 .container {
   align-items: center;
   background-color: rgb(53,66,76);
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
