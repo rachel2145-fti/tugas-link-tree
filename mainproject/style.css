@@ -67,3 +67,7 @@ body {
   height: 30px;
   vertical-align: middle;
 }
+
+.container, p {
+  color: rgb(212,255,244);
+}
