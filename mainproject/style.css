@@ -92,4 +92,14 @@ body {
     align-items: center;
     padding: 100px;
   }
+
+  .imgkontener {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .paragraf {
+    justify-content: center;
+    text-align: center;
+  }
 }
