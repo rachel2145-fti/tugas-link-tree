@@ -73,7 +73,7 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-  .tile, .copybutton {
+  .tile, .copybutton, .container {
     width: 100%;
   }
 }
