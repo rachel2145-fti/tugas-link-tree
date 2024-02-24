@@ -16,7 +16,7 @@
     <section class="links">
         <a class="tile" href="https://genshin-impact.fandom.com/wiki/Xiao/Lore">
             <img class="aiken" src="./sho.png" alt="Xiao UwU" />
-            <button class="copybutton" onclick="copyLink()">
+            <button class="copybutton" onclick="copyLink(event)">
                 <img class="copy" src="./copy.png" alt="ilang" />
             </button>
             Xiao
@@ -34,7 +34,8 @@
             Venti
         </a>
         <script>
-            function copyLink() {
+            function copyLink(event) {
+                event.stopPropagation();
                 var buatcopy = document.querySelector('.tile');
                 var klik = document.createElement('input');
                 klik.setAttribute('value', buatcopy.getAttribute('href'));
