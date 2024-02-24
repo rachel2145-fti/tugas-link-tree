@@ -36,7 +36,6 @@ body {
   justify-content: center;
   width: 500px;
   margin-bottom: 25px;
-  padding-right: 100px;
   position: relative;
   text-align: center;
   align-items: center;
@@ -77,5 +76,6 @@ body {
 @media screen and (max-width: 600px) {
   .tile {
     width: 100%;
+    padding-right: 200px;
   }
 }
