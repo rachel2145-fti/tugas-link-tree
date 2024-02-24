@@ -84,6 +84,7 @@ body {
     padding-left: 110px;
     text-align: center;
     -webkit-tap-highlight-color: transparent;
+    position: relative;
   }
 
   .paragraf {
