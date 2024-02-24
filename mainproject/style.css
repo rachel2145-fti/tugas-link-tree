@@ -75,6 +75,6 @@ body {
 @media screen and (max-width: 600px) {
   .tile {
     width: 100%;
-    padding: 200px;    
+    padding: 20px;    
   }
 }
