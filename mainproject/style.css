@@ -3,5 +3,12 @@
 }
 
 html, body {
-  font-family: HYWenHei-85W;
+  font-family: Times, Times New Roman, serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  align-items: center;
+  background-color: rgb(53,66,76);
 }
