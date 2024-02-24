@@ -18,6 +18,6 @@ body {
   justify-content: center;
 }
 
-.imgkontener {
+.imgkontener, img {
   height: 500px;
 }
