@@ -54,7 +54,7 @@ body {
 
 .copybutton {
   position: absolute;
-  right: -30px;
+  right: 10px;
   padding: 5px 10px;
   border: none;
   border-radius: 5px;
